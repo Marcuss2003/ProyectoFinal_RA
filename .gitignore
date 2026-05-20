@@ -72,3 +72,8 @@ InitTestScene*.unity*
 =======
 InitTestScene*.unity*
 >>>>>>> 294a09e (Entrega Practica 1)
+"Packages/*.tgz" 
+"Packages/*.tgz" 
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
+*.tgz
+Assets/StreamingAssets/*.json

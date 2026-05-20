@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pre-work2" size="0.120000 0.120000" />
+    <ImageTarget name="omega" size="0.100000 0.133333" />
+    <ImageTarget name="prework" size="0.120000 0.120000" />
+    <ImageTarget name="prote" size="0.150000 0.200000" />
+    <ImageTarget name="etiqueta" size="0.120000 0.160000" />
+  </Tracking>
+</QCARConfig>
